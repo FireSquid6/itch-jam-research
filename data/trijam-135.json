@@ -1,0 +1,149 @@
+{
+    "jam_name": "trijam-135",
+    "entries": [
+        {
+            "index": 1,
+            "score": 4.227,
+            "raw_score": 4.227,
+            "ratings": 11.0
+        },
+        {
+            "index": 2,
+            "score": 4.167,
+            "raw_score": 4.167,
+            "ratings": 11.0
+        },
+        {
+            "index": 3,
+            "score": 4.152,
+            "raw_score": 4.152,
+            "ratings": 11.0
+        },
+        {
+            "index": 4,
+            "score": 4.119,
+            "raw_score": 4.119,
+            "ratings": 14.0
+        },
+        {
+            "index": 5,
+            "score": 4.026,
+            "raw_score": 4.026,
+            "ratings": 13.0
+        },
+        {
+            "index": 6,
+            "score": 3.976,
+            "raw_score": 3.976,
+            "ratings": 14.0
+        },
+        {
+            "index": 7,
+            "score": 3.97,
+            "raw_score": 3.97,
+            "ratings": 11.0
+        },
+        {
+            "index": 8,
+            "score": 3.939,
+            "raw_score": 3.939,
+            "ratings": 11.0
+        },
+        {
+            "index": 9,
+            "score": 3.917,
+            "raw_score": 3.917,
+            "ratings": 12.0
+        },
+        {
+            "index": 10,
+            "score": 3.893,
+            "raw_score": 3.893,
+            "ratings": 14.0
+        },
+        {
+            "index": 11,
+            "score": 3.845,
+            "raw_score": 3.845,
+            "ratings": 14.0
+        },
+        {
+            "index": 12,
+            "score": 3.806,
+            "raw_score": 3.806,
+            "ratings": 12.0
+        },
+        {
+            "index": 13,
+            "score": 3.75,
+            "raw_score": 3.933,
+            "ratings": 10.0
+        },
+        {
+            "index": 14,
+            "score": 3.484,
+            "raw_score": 3.852,
+            "ratings": 9.0
+        },
+        {
+            "index": 15,
+            "score": 3.417,
+            "raw_score": 3.417,
+            "ratings": 14.0
+        },
+        {
+            "index": 16,
+            "score": 3.403,
+            "raw_score": 3.403,
+            "ratings": 12.0
+        },
+        {
+            "index": 17,
+            "score": 3.333,
+            "raw_score": 3.333,
+            "ratings": 11.0
+        },
+        {
+            "index": 18,
+            "score": 3.289,
+            "raw_score": 3.45,
+            "ratings": 10.0
+        },
+        {
+            "index": 19,
+            "score": 3.222,
+            "raw_score": 3.222,
+            "ratings": 12.0
+        },
+        {
+            "index": 20,
+            "score": 2.806,
+            "raw_score": 2.806,
+            "ratings": 12.0
+        },
+        {
+            "index": 21,
+            "score": 2.747,
+            "raw_score": 3.037,
+            "ratings": 9.0
+        },
+        {
+            "index": 22,
+            "score": 2.362,
+            "raw_score": 3.917,
+            "ratings": 4.0
+        },
+        {
+            "index": 23,
+            "score": 2.186,
+            "raw_score": 3.625,
+            "ratings": 4.0
+        },
+        {
+            "index": 24,
+            "score": 1.625,
+            "raw_score": 3.111,
+            "ratings": 3.0
+        }
+    ]
+}

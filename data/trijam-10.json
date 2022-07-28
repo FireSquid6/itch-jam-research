@@ -1,0 +1,29 @@
+{
+    "jam_name": "trijam-10",
+    "entries": [
+        {
+            "index": 1,
+            "score": 4.083,
+            "raw_score": 4.083,
+            "ratings": 4.0
+        },
+        {
+            "index": 2,
+            "score": 3.583,
+            "raw_score": 3.583,
+            "ratings": 4.0
+        },
+        {
+            "index": 3,
+            "score": 1.687,
+            "raw_score": 2.667,
+            "ratings": 4.0
+        },
+        {
+            "index": 4,
+            "score": 1.687,
+            "raw_score": 2.667,
+            "ratings": 4.0
+        }
+    ]
+}

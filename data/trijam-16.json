@@ -1,0 +1,47 @@
+{
+    "jam_name": "trijam-16",
+    "entries": [
+        {
+            "index": 1,
+            "score": 3.714,
+            "raw_score": 3.714,
+            "ratings": 7.0
+        },
+        {
+            "index": 2,
+            "score": 3.712,
+            "raw_score": 4.15,
+            "ratings": 4.0
+        },
+        {
+            "index": 3,
+            "score": 3.6,
+            "raw_score": 3.6,
+            "ratings": 5.0
+        },
+        {
+            "index": 4,
+            "score": 3.309,
+            "raw_score": 3.7,
+            "ratings": 4.0
+        },
+        {
+            "index": 5,
+            "score": 2.72,
+            "raw_score": 2.72,
+            "ratings": 5.0
+        },
+        {
+            "index": 6,
+            "score": 2.64,
+            "raw_score": 2.64,
+            "ratings": 5.0
+        },
+        {
+            "index": 7,
+            "score": 2.582,
+            "raw_score": 3.333,
+            "ratings": 3.0
+        }
+    ]
+}
